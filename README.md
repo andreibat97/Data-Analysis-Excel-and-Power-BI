@@ -1,0 +1,1 @@
+This project consist in 4 business dashboards using Excel and PowerBI. To interact with the files, just use this link: https://1drv.ms/f/c/207ae506c9513f68/IgDaOhLmiQTfTpS2uZSYInbfAWburCjloKmMDT6HYjVMNdY
